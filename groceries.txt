@@ -4,3 +4,4 @@
 - butter
 - eggs
 - toilet paper
+- chard
